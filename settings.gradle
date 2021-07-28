@@ -1,0 +1,3 @@
+rootProject.name = "dexmakerhook"
+include ':app'
+include ':dexmakerlib'
